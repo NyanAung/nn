@@ -1,0 +1,23 @@
+Building Android Apps With Html Css And Javascript
+by Stark, Jonathan
+
+Price: $29.99
+
+
+If you know HTML, CSS, and JavaScript, you already have the tools you need to develop Android applications. This hands-on book shows you how to use these open source web standards to design and build apps that can be adapted for any Android device -- "without" having to use Java.
+
+You'll learn how to create an Android-friendly web app on the platform of your choice, and then convert it to a native Android app with the free PhoneGap framework. Discover why device-agnostic mobile apps are the wave of the future, and start building apps that offer greater flexibility and a broader reach.Learn the basics for making a web page look great on the Android web browser Convert a website into a web application, complete with progress indicators and more Add animation with jQTouch to make your web app look and feel like a native Android app Take advantage of client-side data storage with apps that run even when the Android device is offline Use PhoneGap to hook into advanced Android features -- including the accelerometer, geolocation, and alerts Test and debug your app on the Web under load with real users, and then submit the finished product to the Android Market This book received valuable community input through O'Reilly's Open Feedback Publishing System (OFPS). Learn more at http: //labs.oreilly.com/ofps.html.
+Add to Cart 
+
+Availability: Usually Ships Within 2 to 4 Weeks; Please contact our Books staff for more information
+
+We offer Free Book Shipping for new and used books (non-textbooks) online on orders over $20 within the Continental United States.
+
+Buying a gift? We'll get it there looking great. Gift wrapping is only $1 per package and includes a handwritten personal note.
+
+Product Details
+
+Binding: Paperback
+Publisher: OREILLY & ASSOCIATES INC
+ISBN: 9781449383268
+Publication Date: 09/30/2010

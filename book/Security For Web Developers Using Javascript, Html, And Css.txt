@@ -1,0 +1,21 @@
+Security For Web Developers Using Javascript, Html, And Css
+by Mueller
+
+Price: $49.99
+
+
+As a web developer, you may not want to spend time making your web app secure, but it definitely comes with the territory. This practical guide provides you with the latest information on how to thwart security threats at several levels, including new areas such as microservices. You’ll learn how to help protect your app no matter where it runs, from the latest smartphone to an older desktop, and everything in between. Author John Paul Mueller delivers specific advice as well as several security programming examples for developers with a good knowledge of CSS3, HTML5, and JavaScript. In five separate sections, this book shows you how to protect against viruses, DDoS attacks, security breaches, and other nasty intrusions. Create a security plan for your organization that takes the latest devices and user needs into account Develop secure interfaces, and safely incorporate third-party code from libraries, APIs, and microservices Use sandboxing techniques, in-house and third-party testing techniques, and learn to think like a hacker Implement a maintenance cycle by determining when and how to update your application software Learn techniques for efficiently tracking security threats as well as training requirements that your organization can use
+Add to Cart 
+
+Availability: Usually Ships Within 2 to 4 Weeks; Please contact our Books staff for more information
+
+We offer Free Book Shipping for new and used books (non-textbooks) online on orders over $20 within the Continental United States.
+
+Buying a gift? We'll get it there looking great. Gift wrapping is only $1 per package and includes a handwritten personal note.
+
+Product Details
+
+Binding: Paperback
+Publisher: O'REILLY MEDIA
+ISBN: 9781491928646
+Publication Date: 11/29/2015

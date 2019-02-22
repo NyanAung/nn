@@ -1,0 +1,21 @@
+Advanced Mac Os X Programming
+by Dalrymple, Mark
+
+Price: $59.99
+
+
+While there are several books on programming for Mac OS X, Advanced Mac OS X Programming: The Big Nerd Ranch Guide is the only one that contains explanations of how to leverage the powerful underlying technologies. This book gets down to the real nitty-gritty. The third edition is updated for Mac OS X 10.5 and 10.6 and covers new technologies like DTrace, Instruments, Grand Central Dispatch, blocks, and NSOperation.
+Add to Cart 
+
+Availability: Usually Ships Within 2 to 4 Weeks; Please contact our Books staff for more information
+
+We offer Free Book Shipping for new and used books (non-textbooks) online on orders over $20 within the Continental United States.
+
+Buying a gift? We'll get it there looking great. Gift wrapping is only $1 per package and includes a handwritten personal note.
+
+Product Details
+
+Binding: Paperback
+Publisher: ADDISON-WESLEY PROFESSIONAL
+ISBN: 9780321706256
+Publication Date: 08/28/2011

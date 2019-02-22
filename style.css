@@ -1,0 +1,85 @@
+body {
+	font-family: 'Merriweather', sans-serif;
+}
+.header { 
+	background: url('img/banner2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 70px 0;
+}
+.mylogo a:hover {
+	text-decoration: none;
+}
+.logo {
+	font-size: 22px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 4px;
+	color: #FFFFFF;
+	padding-top: 0;
+}
+.navbar {
+	margin:0;
+}
+.nav li a {
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.nav li a:hover {
+	color:#0F9E5E;
+	text-decoration: none;
+}
+.nav li {
+	padding: 5px 40px 0 0;
+}
+.nav {
+	margin: 0px;
+}
+.social a {
+	padding: 0 10px;
+}
+.headerRow {
+	padding: 0 0 0 70px;
+}
+.footer  {
+	color: white;
+	background-color: black;
+	padding: 100px 0;
+	font-size: 16px;
+}
+.footer span:hover {
+	cursor: pointer;
+}
+.mybook img {
+	width: 170px;
+	height: 243px;
+}
+.bookR img {
+	width: 250px;
+	height: 375px;
+}
+.mybook img :hover {
+	border-collapse: 10px;
+	box-shadow: 0px 6px 5px black;
+	transform: scaleY(1.5);
+}
+.google-maps {
+        position: relative;
+        padding-bottom: 75%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+.bookDetails {
+	padding: 100px 0;
+	font-size: 20px;
+}
+
+	
